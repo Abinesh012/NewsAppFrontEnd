@@ -1,0 +1,537 @@
+[
+    {
+        "id":1,
+        "img":"https://t3.ftcdn.net/jpg/02/72/78/44/360_F_272784427_ct2LctMwGutHuaxtPjOPq5DgKCzteLF6.jpg",
+        "name":"Education",
+        "questions":[
+            {
+                 "id":1,
+                 "text":"8 %2(2%2)",
+                 "options":[
+                    {
+                        "id":1,
+                        "label":"A",
+                        "text": "16",
+                        "isCorrect":true
+
+                    },
+                    {
+                        "id":2,
+                        "label":"B",
+                        "text": "16",
+                        "isCorrect":false
+
+                    },
+                    {
+                        "id":3,
+                        "label":"C",
+                        "text": "16",
+                        "isCorrect":false
+
+                    }
+                 ]
+            },
+            {
+                "id":2,
+                "text":"8 %2(2%2)",
+                "options":[
+                   {
+                       "id":1,
+                       "label":"A",
+                       "text": "16",
+                       "isCorrect":true
+
+                   },
+                   {
+                       "id":2,
+                       "label":"B",
+                       "text": "16",
+                       "isCorrect":false
+
+                   },
+                   {
+                       "id":3,
+                       "label":"C",
+                       "text": "16",
+                       "isCorrect":false
+
+                   }
+                ]
+           },
+           {
+            "id":3,
+            "text":"8 %2(2%2)",
+            "options":[
+                {
+                    "id":1,
+                    "label":"A",
+                    "text": "16",
+                    "isCorrect":true
+
+                },
+                {
+                    "id":2,
+                    "label":"B",
+                    "text": "16",
+                    "isCorrect":false
+
+                },
+                {
+                    "id":3,
+                    "label":"C",
+                    "text": "16",
+                    "isCorrect":false
+
+                }
+                ]
+            }
+
+        ]
+    },
+    {
+        "id":2,
+        "img":"https://static01.nyt.com/images/2020/07/21/autossell/sports-reboot-promo-still/sports-reboot-promo-still-videoSixteenByNineJumbo1600.jpg",
+        "name":"Sports",
+        "questions":[
+            {
+                 "id":1,
+                 "text":"8 %2(2%2)",
+                 "options":[
+                    {
+                        "id":1,
+                        "label":"A",
+                        "text": "16",
+                        "isCorrect":true
+
+                    },
+                    {
+                        "id":2,
+                        "label":"B",
+                        "text": "16",
+                        "isCorrect":false
+
+                    },
+                    {
+                        "id":3,
+                        "label":"C",
+                        "text": "16",
+                        "isCorrect":false
+
+                    }
+                 ]
+            },
+            {
+                "id":2,
+                "text":"8 %2(2%2)",
+                "options":[
+                   {
+                       "id":1,
+                       "label":"A",
+                       "text": "16",
+                       "isCorrect":true
+
+                   },
+                   {
+                       "id":2,
+                       "label":"B",
+                       "text": "16",
+                       "isCorrect":false
+
+                   },
+                   {
+                       "id":3,
+                       "label":"C",
+                       "text": "16",
+                       "isCorrect":false
+
+                   }
+                ]
+           },
+           {
+            "id":3,
+            "text":"8 %2(2%2)",
+            "options":[
+                {
+                    "id":1,
+                    "label":"A",
+                    "text": "16",
+                    "isCorrect":true
+
+                },
+                {
+                    "id":2,
+                    "label":"B",
+                    "text": "16",
+                    "isCorrect":false
+
+                },
+                {
+                    "id":3,
+                    "label":"C",
+                    "text": "16",
+                    "isCorrect":false
+
+                }
+                ]
+            }
+
+        ]
+    },
+    {
+        "id":3,
+        "img":"https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/03/05191207/Political-Leaders.png",
+        "name":"Politics",
+        "questions":[
+            {
+                 "id":1,
+                 "text":"8 %2(2%2)",
+                 "options":[
+                    {
+                        "id":1,
+                        "label":"A",
+                        "text": "16",
+                        "isCorrect":true
+
+                    },
+                    {
+                        "id":2,
+                        "label":"B",
+                        "text": "16",
+                        "isCorrect":false
+
+                    },
+                    {
+                        "id":3,
+                        "label":"C",
+                        "text": "16",
+                        "isCorrect":false
+
+                    }
+                 ]
+            },
+            {
+                "id":2,
+                "text":"8 %2(2%2)",
+                "options":[
+                   {
+                       "id":1,
+                       "label":"A",
+                       "text": "16",
+                       "isCorrect":true
+
+                   },
+                   {
+                       "id":2,
+                       "label":"B",
+                       "text": "16",
+                       "isCorrect":false
+
+                   },
+                   {
+                       "id":3,
+                       "label":"C",
+                       "text": "16",
+                       "isCorrect":false
+
+                   }
+                ]
+           },
+           {
+            "id":3,
+            "text":"8 %2(2%2)",
+            "options":[
+                {
+                    "id":1,
+                    "label":"A",
+                    "text": "16",
+                    "isCorrect":true
+
+                },
+                {
+                    "id":2,
+                    "label":"B",
+                    "text": "16",
+                    "isCorrect":false
+
+                },
+                {
+                    "id":3,
+                    "label":"C",
+                    "text": "16",
+                    "isCorrect":false
+
+                }
+                ]
+            }
+
+        ]
+    },
+    {
+        "id":4,
+        "img":"https://www.wissenschaft.de/wp-content/uploads/i/S/iStock-1340728386-1320x905.jpg",
+        "name":"Technology",
+        "questions":[
+            {
+                 "id":1,
+                 "text":"8 %2(2%2)",
+                 "options":[
+                    {
+                        "id":1,
+                        "label":"A",
+                        "text": "16",
+                        "isCorrect":true
+
+                    },
+                    {
+                        "id":2,
+                        "label":"B",
+                        "text": "16",
+                        "isCorrect":false
+
+                    },
+                    {
+                        "id":3,
+                        "label":"C",
+                        "text": "16",
+                        "isCorrect":false
+
+                    }
+                 ]
+            },
+            {
+                "id":2,
+                "text":"8 %2(2%2)",
+                "options":[
+                   {
+                       "id":1,
+                       "label":"A",
+                       "text": "16",
+                       "isCorrect":true
+
+                   },
+                   {
+                       "id":2,
+                       "label":"B",
+                       "text": "16",
+                       "isCorrect":false
+
+                   },
+                   {
+                       "id":3,
+                       "label":"C",
+                       "text": "16",
+                       "isCorrect":false
+
+                   }
+                ]
+           },
+           {
+            "id":3,
+            "text":"8 %2(2%2)",
+            "options":[
+                {
+                    "id":1,
+                    "label":"A",
+                    "text": "16",
+                    "isCorrect":true
+
+                },
+                {
+                    "id":2,
+                    "label":"B",
+                    "text": "16",
+                    "isCorrect":false
+
+                },
+                {
+                    "id":3,
+                    "label":"C",
+                    "text": "16",
+                    "isCorrect":false
+
+                }
+                ]
+            }
+
+        ]
+    },
+    {
+        "id":5,
+        "img":"https://study.com/cimages/videopreview/what-is-economy-definition-types-quiz_113903.jpg",
+        "name":"Economy",
+        "questions":[
+            {
+                 "id":1,
+                 "text":"8 %2(2%2)",
+                 "options":[
+                    {
+                        "id":1,
+                        "label":"A",
+                        "text": "16",
+                        "isCorrect":true
+
+                    },
+                    {
+                        "id":2,
+                        "label":"B",
+                        "text": "16",
+                        "isCorrect":false
+
+                    },
+                    {
+                        "id":3,
+                        "label":"C",
+                        "text": "16",
+                        "isCorrect":false
+
+                    }
+                 ]
+            },
+            {
+                "id":2,
+                "text":"8 %2(2%2)",
+                "options":[
+                   {
+                       "id":1,
+                       "label":"A",
+                       "text": "16",
+                       "isCorrect":true
+
+                   },
+                   {
+                       "id":2,
+                       "label":"B",
+                       "text": "16",
+                       "isCorrect":false
+
+                   },
+                   {
+                       "id":3,
+                       "label":"C",
+                       "text": "16",
+                       "isCorrect":false
+
+                   }
+                ]
+           },
+           {
+            "id":3,
+            "text":"8 %2(2%2)",
+            "options":[
+                {
+                    "id":1,
+                    "label":"A",
+                    "text": "16",
+                    "isCorrect":true
+
+                },
+                {
+                    "id":2,
+                    "label":"B",
+                    "text": "16",
+                    "isCorrect":false
+
+                },
+                {
+                    "id":3,
+                    "label":"C",
+                    "text": "16",
+                    "isCorrect":false
+
+                }
+                ]
+            }
+
+        ]
+    },
+    {
+        "id":6,
+        "img":"https://static.vecteezy.com/system/resources/thumbnails/005/892/937/small_2x/set-of-abstract-minimalist-woman-figure-in-underwear-fashion-of-the-female-body-in-a-trendy-linear-style-elegant-art-for-posters-tattoos-logos-of-underwear-stores-free-free-vector.jpg",
+        "name":"Fashion",
+        "questions":[
+            {
+                 "id":1,
+                 "text":"8 %2(2%2)",
+                 "options":[
+                    {
+                        "id":1,
+                        "label":"A",
+                        "text": "16",
+                        "isCorrect":true
+
+                    },
+                    {
+                        "id":2,
+                        "label":"B",
+                        "text": "16",
+                        "isCorrect":false
+
+                    },
+                    {
+                        "id":3,
+                        "label":"C",
+                        "text": "16",
+                        "isCorrect":false
+
+                    }
+                 ]
+            },
+            {
+                "id":2,
+                "text":"8 %2(2%2)",
+                "options":[
+                   {
+                       "id":1,
+                       "label":"A",
+                       "text": "16",
+                       "isCorrect":true
+
+                   },
+                   {
+                       "id":2,
+                       "label":"B",
+                       "text": "16",
+                       "isCorrect":false
+
+                   },
+                   {
+                       "id":3,
+                       "label":"C",
+                       "text": "16",
+                       "isCorrect":false
+
+                   }
+                ]
+           },
+           {
+            "id":3,
+            "text":"8 %2(2%2)",
+            "options":[
+                {
+                    "id":1,
+                    "label":"A",
+                    "text": "16",
+                    "isCorrect":true
+
+                },
+                {
+                    "id":2,
+                    "label":"B",
+                    "text": "16",
+                    "isCorrect":false
+
+                },
+                {
+                    "id":3,
+                    "label":"C",
+                    "text": "16",
+                    "isCorrect":false
+
+                }
+                ]
+            }
+
+        ]
+    }
+    
+]

@@ -1,0 +1,20 @@
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+<div id="app">
+<p>{{message}}{{output()}}</p>
+</div>
+
+<script type="/javascript">
+new Vue({
+  el: "#app",
+  data: {
+    message: "Hello vue js"
+  },
+  methods: {
+    output() {
+      this.message = "this is a fuckin new vue js message";
+    }
+  }
+})</script>
+
